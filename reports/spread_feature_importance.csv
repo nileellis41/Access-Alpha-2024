@@ -1,0 +1,30 @@
+feature,importance_gain
+rating_numeric,22020198.787384033
+EBIT / Interest Expense (x),9034036.263916016
+log_assets,8087255.830255508
+age_yrs,7981700.792980194
+rating_is_ig,5955802.839813232
+time_to_maturity_yrs,5669949.139129639
+convexity,5230486.448535919
+debt_to_equity,4575026.981658936
+log_amt_outstanding,3507408.4374990463
+EBITDA Margin,3159079.301170349
+net_debt_to_ebitda,2935642.2942504883
+total_debt_to_assets,2449517.2238998413
+Current Ratio (x),1599637.8579273224
+Total Debt / EBITDA (x),1425344.572154045
+modified_duration,973297.6081066132
+cash_to_debt,810472.0596466064
+Quick Ratio (x),422751.6212005615
+fcf_to_debt,363416.7282612324
+cfo_to_debt,317594.49786376953
+EBITDA / Interest Expense (x),44398.29244995117
+seniority_senior_unsecured,0.0
+hy_oas,0.0
+ig_oas,0.0
+treasury_10y,0.0
+vix,0.0
+yield_curve,0.0
+hy_oas_30d_chg,0.0
+treasury_10y_30d_chg,0.0
+vix_30d_chg,0.0

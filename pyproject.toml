@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "bond-ml-phase2"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.1",
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "scikit-learn>=1.4",
+    "lightgbm>=4.3",
+    "lifelines>=0.28",
+    "statsmodels>=0.14",
+    "pyarrow>=14.0",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "pytest>=7.4",
+    "python-dotenv>=1.0",
+    "fredapi>=0.5",
+    "shap>=0.44",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
